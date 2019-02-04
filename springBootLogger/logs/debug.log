@@ -1,0 +1,11 @@
+2019-01-09 18:37:52 [main] INFO  c.m.app.SpringBootLoggerApplication - Starting SpringBootLoggerApplication on DESKTOP-F7P8UB6 with PID 1704 (F:\bankddd\springBootLogger\target\classes started by pawan in F:\bankddd\springBootLogger)
+2019-01-09 18:37:52 [main] DEBUG c.m.app.SpringBootLoggerApplication - Running with Spring Boot v1.5.18.RELEASE, Spring v4.3.21.RELEASE
+2019-01-09 18:37:52 [main] INFO  c.m.app.SpringBootLoggerApplication - No active profile set, falling back to default profiles: default
+2019-01-09 18:38:01 [main] INFO  c.m.app.SpringBootLoggerApplication - Starting SpringBootLoggerApplication on DESKTOP-F7P8UB6 with PID 4308 (F:\bankddd\springBootLogger\target\classes started by pawan in F:\bankddd\springBootLogger)
+2019-01-09 18:38:01 [main] DEBUG c.m.app.SpringBootLoggerApplication - Running with Spring Boot v1.5.18.RELEASE, Spring v4.3.21.RELEASE
+2019-01-09 18:38:01 [main] INFO  c.m.app.SpringBootLoggerApplication - No active profile set, falling back to default profiles: default
+2019-01-09 18:38:18 [main] INFO  c.m.app.SpringBootLoggerApplication - Started SpringBootLoggerApplication in 36.295 seconds (JVM running for 154.717)
+2019-01-09 18:38:18 [main] ERROR c.m.app.SpringBootLoggerApplication - This  is error log
+2019-01-09 18:38:18 [main] WARN  c.m.app.SpringBootLoggerApplication - This  is warn log
+2019-01-09 18:38:18 [main] INFO  c.m.app.SpringBootLoggerApplication - This is info log
+2019-01-09 18:38:18 [main] DEBUG c.m.app.SpringBootLoggerApplication - This is debug log
